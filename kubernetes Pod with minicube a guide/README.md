@@ -24,7 +24,22 @@ Run the following command to start Minikube:
 ```bash
 minikube start
 ```
-## Create a YAML Configuration File for the Pod
+### 2.Create a YAML Configuration File for the Pod
 Create file named pod.yaml that contains the configuration for deploying a sample NGINX pod.
 -[pod.yml](./pod.yml) that contains the configuration for deploying a sample NGINX pod.
+### 3.Apply the YAML Configuration
+Use kubectl to create the pod with the following command:
+```bash
+kubectl apply -f pod.yaml
+```
+### 4.Verify the Pod Status
+Check if the pod is running with:
+```bash
+kubectl get pods
+```
+### 5. Access the Pod
+To access the NGINX server, run:
+```bash
+kubectl port-forward pod/my-nginx-pod 8080:80
+```
 
