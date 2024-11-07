@@ -26,8 +26,8 @@ Welcome to my DevOps portfolio! This repository showcases my work and learning j
 
 - **DevOps Tools:** Git, Docker, Kubernetes
 - **Languages:** Python, Bash, YAML
-- **Platforms:** GitHub, GitLab, Jenkins
-- **Cloud Services:** AWS, Google Cloud Platform (GCP)
+- **Platforms:** GitHub, GitLab
+- **Cloud Services:** AWS
 
 ---
 
@@ -72,7 +72,8 @@ I’ve created a structured learning guide on key DevOps concepts:
 ## 📂 Sample Repository
 
 This section will include an open-source project where I’ll demonstrate DevOps tools in action.
-
+- [pod.yaml](./)
+- [pod.yaml](./pod.yaml) 
 ---
 
 Thank you for visiting my DevOps portfolio! Feel free to explore my work and reach out if you have any questions or feedback.
