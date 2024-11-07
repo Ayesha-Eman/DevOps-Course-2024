@@ -26,5 +26,5 @@ minikube start
 ```
 ## Create a YAML Configuration File for the Pod
 Create file named pod.yaml that contains the configuration for deploying a sample NGINX pod.
--[pod.yaml](./pod.yaml) that contains the configuration for deploying a sample NGINX pod.
+-[pod.yml](./pod.yml) that contains the configuration for deploying a sample NGINX pod.
 
