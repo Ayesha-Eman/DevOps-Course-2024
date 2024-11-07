@@ -71,10 +71,13 @@ I’ve created a structured learning guide on key DevOps concepts:
 
 ## 📂 Sample Repository
 
-This section will include an open-source project where I’ll demonstrate DevOps tools in action.
-- [pod.yaml](./)
-- [pod.yaml](./pod.yaml) 
+This section includes projects where I demonstrate DevOps tools in action:
+
+- [Dockerizing A Mini Math Game](./Dockerizing%20A%20Mini%20Math%20Game): A guide on containerizing a simple math game using Docker.
+- [Kubernetes Pod with Minikube](./kubernetes%20Pod%20with%20minicube%20a%20guide): A guide on deploying a Kubernetes pod using Minikube.
+
 ---
+
 
 Thank you for visiting my DevOps portfolio! Feel free to explore my work and reach out if you have any questions or feedback.
 
