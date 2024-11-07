@@ -48,4 +48,4 @@ minikube ssh
 ```
 ![login](./ssh.png)
 - curl <ip>: After SSH-ing into the Minikube VM, you can use curl to make HTTP requests to any services running within Minikube.
-![Running](./last step.png)
+![Running](./laststep.png).
