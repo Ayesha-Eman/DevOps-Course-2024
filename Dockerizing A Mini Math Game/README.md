@@ -43,13 +43,16 @@ Run this command to build the Docker image:
 ```bash
 docker build -t math-game .
 ```
+![Building Image](./docker1.png)
 ### 2. Run the Docker Container
 Run this command to start the game:
 
 ```bash
 docker run -it math-game
 ```
+![Running continer](./docker3.png)
 ### 3.How to Play
+![Playing Game](./docker2.png)
 The game will start inside the container. Answer the math questions by typing in your answers. Type exit to quit the game.
 
 This guide walks you through setting up and containerizing a simple Node.js application using Docker.
