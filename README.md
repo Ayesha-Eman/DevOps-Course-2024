@@ -9,7 +9,7 @@ Welcome to my DevOps portfolio! This repository showcases my work and learning j
 
 **Name:** Ayesha Eman
 - **Field of Study:** Bachelor of Science in Computer Science (BSCS)  
-- **Interest:** DevOps, AI, 
+- **Interest:** DevOps, AI
 - **Email:** emanayesha327@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/ayeshaeman
 - **GitHub:** https://github.com/Ayesha-Eman
