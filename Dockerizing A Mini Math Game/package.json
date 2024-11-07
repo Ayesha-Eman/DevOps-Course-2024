@@ -1,0 +1,14 @@
+{
+  "name": "math-game",
+  "version": "1.0.0",
+  "description": "A simple math game in Node.js",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+  
+
+
+}
+ 
